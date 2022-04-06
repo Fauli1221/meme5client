@@ -1,0 +1,17 @@
+{
+  "allowhitboxchanges": true,
+  "allowcamerachanges": true,
+  "scale": {
+    "body": {
+      "x": 0.71999997,
+      "y": 0.71999997,
+      "z": 0.71999997
+    },
+    "camera": {
+      "distance": 0.71999997,
+      "height": 0.71999997
+    },
+    "maxMultiplier": 2.0,
+    "visual": false
+  }
+}
