@@ -129,6 +129,11 @@ file = "config/tiefix.json"
 hash = "2f9524e90a973cbd127f8f3f5d7b134efbce157dfe1ef26bcf365ce0caf7a6ec"
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "91e0c51ae82d6cbf49b67fdcb60b10e90aa43f73a95f70b3bcc0027e0f2bf56f"
+metafile = true
+
+[[files]]
 file = "mods/big-pony.toml"
 hash = "7e8a8c67ca6ee75aa2d767b606dd7e6f528c5b46b26a3f4e0934f2846050371f"
 metafile = true
@@ -141,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.toml"
 hash = "514fca35d56842bf057e04b93848ef977156678bfc8949dfa2cdb2cdc04a7a0e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
@@ -279,6 +289,11 @@ hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "23c70b8f22525865b02cc96bc686a8765e0d43edfa77cc535b8f1f2da7a21fde"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "f8d262a27787b948f6ec71d548131bcac4a60adc616a78db852a40d6461563be"
 metafile = true
@@ -286,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.toml"
+hash = "038c6742bff80bf4fa732e562504e7c1f17655f1e4d07a500f5431072da0ee29"
 metafile = true
 
 [[files]]
