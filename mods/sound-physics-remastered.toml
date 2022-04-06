@@ -15,4 +15,4 @@ project-id = 535489
 [option]
 optional = true
 description = "Adds soundphysics I recomend using it with Simple Voice Chat"
-default = true
+default = false

@@ -129,10 +129,6 @@ file = "config/tiefix.json"
 hash = "2f9524e90a973cbd127f8f3f5d7b134efbce157dfe1ef26bcf365ce0caf7a6ec"
 
 [[files]]
-file = "mods/.sound-physics-remastered.toml.kate-swp"
-hash = "f03219d316b585266b3514e0512f11e5ea0678c0d7ce2e48a20cc9d8f689044a"
-
-[[files]]
 file = "mods/appleskin.toml"
 hash = "91e0c51ae82d6cbf49b67fdcb60b10e90aa43f73a95f70b3bcc0027e0f2bf56f"
 metafile = true
@@ -309,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "038c6742bff80bf4fa732e562504e7c1f17655f1e4d07a500f5431072da0ee29"
+hash = "710c8197e2691cec768547fdba05edff34a5c1caab125dca703b1a6e29ced439"
 metafile = true
 
 [[files]]
