@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "5dbb4d2a2f4d20ecaddd7ea8b31c48e7e9c8694ac4b8d1ffe0e92a76c0718c67"
+hash = "347c276b5b842d1d345221949a70a72e1e774d17139525814b2bf301264afc0e"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
+hash = "3e5b48743defd597ab53d6459c5c9991aa12e6fd89ae1a62a5a0f9c24cfb9dd2"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
+hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
 metafile = true
 
 [[files]]
@@ -295,12 +295,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "9c7f7d17b6aba7517bed1c06552e558980d87fb1e25fb1bc3be7b6cc8446c4bf"
+hash = "53aae59f4c5b0d78d39d3658ed04c00592ffc67c4aedee362aa949c98701bf4b"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "f8d262a27787b948f6ec71d548131bcac4a60adc616a78db852a40d6461563be"
+hash = "8a2f7bd4e0b892213e121ace77cbe399351a8c9d1ce12a8dc13973d9ec7a50dc"
 metafile = true
 
 [[files]]
