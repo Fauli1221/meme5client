@@ -1,12 +1,12 @@
 name = "Meme 5 Client"
 author = "Fauli1221"
 version = "0.1.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0f9409d4ddbefeea9790e1cea536f25a688ea4a894f14ad3b5af46c695312ffa"
+hash = "0cd8de30a6689b040c8e3b6a66bc7fb7f22a0d100f2c88b7aa1d8c11150543e6"
 
 [versions]
 fabric = "0.13.3"
