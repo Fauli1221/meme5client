@@ -195,12 +195,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.toml"
-hash = "3a604924cdf2de5d376cfeed9e5399ce2c7c8bc5bdf7e70aebbe20bf163f9e05"
+hash = "7bb361ee92cd7031db4be5beab67b5bfc2fb353b3927243a44a496eacfd6808e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "3e5b48743defd597ab53d6459c5c9991aa12e6fd89ae1a62a5a0f9c24cfb9dd2"
+hash = "6f804c2910c7eee1bb396ca2f201494ad4c26cafa1fa052f11411a9b9fc86329"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "53aae59f4c5b0d78d39d3658ed04c00592ffc67c4aedee362aa949c98701bf4b"
+hash = "ff8e36da4f77c8757ed18da54652fe657aea7aaa5916c961a721d101a1d39d6d"
 metafile = true
 
 [[files]]
