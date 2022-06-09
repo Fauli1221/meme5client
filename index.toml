@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "347c276b5b842d1d345221949a70a72e1e774d17139525814b2bf301264afc0e"
+hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.toml"
-hash = "2ebb6ce5168da53cbb387427b0f0f42e522f45f66e0267732f8c739225fc6f22"
+hash = "d63621f2d125950bf2795fae3488a4cff72d38f681ebbed72af99861bb52b087"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "8a2f7bd4e0b892213e121ace77cbe399351a8c9d1ce12a8dc13973d9ec7a50dc"
+hash = "696826932a2a382de68f7c843847b6c8c8d5319c022503681494e3cff03e18ff"
 metafile = true
 
 [[files]]
