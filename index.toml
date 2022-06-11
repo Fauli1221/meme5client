@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.toml"
-hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
+hash = "0b0b7d2de5e46b9032ae84b25f554839e7fabfeab7bd8bcb48392b940e112f38"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "0ad741239aaa45fad57d71443797e5239bd2563f704571f2a67872e4e2da5486"
+hash = "17ddb536a87b968f95792cfdb5f1cb1eea0ea70a7233b9f28cf19c41e8cd363d"
 metafile = true
 
 [[files]]
