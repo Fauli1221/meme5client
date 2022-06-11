@@ -139,6 +139,11 @@ hash = "7e8a8c67ca6ee75aa2d767b606dd7e6f528c5b46b26a3f4e0934f2846050371f"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
+metafile = true
+
+[[files]]
 file = "mods/chime.toml"
 hash = "5af1239f6c1c48fef43fdefbbbff5e5190cc173842f86d7ec44d03e6b309fcbe"
 metafile = true
