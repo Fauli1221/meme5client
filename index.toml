@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-pony.toml"
-hash = "7e8a8c67ca6ee75aa2d767b606dd7e6f528c5b46b26a3f4e0934f2846050371f"
+hash = "5984256e04d57537e47be5cb6b6f7f57d02be1db0282d58c3365a765726b6b23"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/hd-skins.toml"
-hash = "fb78f29267f28e502534635f8ddc3730e7348fb20c0d750b04118337afa2a0fa"
+hash = "2dc118f2cea563e58d2344e1003a8bb4b2ae74ef4be6d2844f54c5c097cb3b20"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.toml"
-hash = "2ebb6ce5168da53cbb387427b0f0f42e522f45f66e0267732f8c739225fc6f22"
+hash = "097c82ad29b590b0a871440daa463381f58bd021fee58a65a57155834125b53d"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.toml"
-hash = "26b1a2e1fdfc61594bfdf13e88c5edf9e42a1c68023098233f4cdfc215536867"
+hash = "e5a6e7fb7994702cc2e4787aad7b042d91df44148140ed5bad245448536091e0"
 metafile = true
 
 [[files]]
