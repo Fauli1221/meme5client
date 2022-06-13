@@ -11,7 +11,7 @@
   "frustrum": true,
   "showscale": true,
   "sizes": true,
-  "inanimates": false,
+  "inanimates": true,
   "horsebutton": "AUTO",
   "villagers": true,
   "fpsmagic": true,

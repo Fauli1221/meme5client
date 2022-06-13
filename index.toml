@@ -34,7 +34,7 @@ hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
 file = "config/debugify.json"
-hash = "45b85989b52a56a5cf4b5378087aaa0cb39181d859a929255503ad129e186e0a"
+hash = "2d0c60272f03844ab08bac7b8465012ea98db229fa21e80744fc18e31128af2c"
 
 [[files]]
 file = "config/dynamicfps.toml"
@@ -94,7 +94,7 @@ hash = "0d0d37355a4d69533df3d95d928f36cff9ee75cae71253e57fd419bfb6c5f5ee"
 
 [[files]]
 file = "config/minelp.json"
-hash = "61f04d8ba81e198759fdc0f72740071676dc45f0fc898bfc4db07b3ac74cae2a"
+hash = "3ac3c84fd0514cddb169e3bd47bae98493776b338843213a99bd36fb071cf12c"
 
 [[files]]
 file = "config/modmenu.json"
