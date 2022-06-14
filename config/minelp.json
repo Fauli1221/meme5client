@@ -4,7 +4,7 @@
   "endermen": true,
   "pigzombies": true,
   "skeletons": true,
-  "ponylevel": "PONIES",
+  "ponylevel": "BOTH",
   "globalscalefactor": 0.9,
   "snuzzles": true,
   "guardians": true,
@@ -17,7 +17,7 @@
   "fpsmagic": true,
   "ponyskulls": true,
   "illagers": true,
-  "passivenetworking": false,
+  "passivenetworking": true,
   "tpsmagic": true,
   "sizeoverride": "UNSET",
   "zombies": true
