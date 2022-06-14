@@ -195,12 +195,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.toml"
-hash = "18dd92e3352ea0fdcfe1a116ffe661ec1a2de1ffe58678260e125d04cbfdfaf6"
+hash = "7c8734c1b20623d0deaab723a2c872c3b166fe466b43caa43fc7118dfd40d843"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "23c82cc89e5e080d3ea3a56052708782ee511091c387ef09ff5870d0dcd98827"
+hash = "358ffc2bfad0305580718cb6c57e501a372d087a6f27f0c37fa9001f461d0861"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.pw.toml"
-hash = "ee759e246061836e6afa587f5b1e2031aa962da0f9fa5ce19c79dc2df2f8f07b"
+hash = "38e67d1c5ca88a3b31dc43334a1124078750abe03682d1cd5b859446714cc164"
 metafile = true
 
 [[files]]
