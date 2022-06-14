@@ -34,7 +34,7 @@ hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
 file = "config/debugify.json"
-hash = "2d0c60272f03844ab08bac7b8465012ea98db229fa21e80744fc18e31128af2c"
+hash = "bac564344a6a72533f5c3ed59fd7fbc863e5c559202fa176e8df401ff64bef54"
 
 [[files]]
 file = "config/dynamicfps.toml"
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "af368a6d45f8cab9804f0918cd84c1548b94ee8bcb5409aff59963b3c5d16dd9"
+hash = "d562db5edffe81d5698a1c8ee6a42c4d014865dad4daf19fd4331b99018a2537"
 metafile = true
 
 [[files]]
