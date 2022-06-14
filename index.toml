@@ -264,11 +264,6 @@ hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
 
 [[files]]
-file = "mods/multiconnect.pw.toml"
-hash = "38e67d1c5ca88a3b31dc43334a1124078750abe03682d1cd5b859446714cc164"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.toml"
 hash = "73a331eb8ba2203821613804d514d4da7974aa61d55e873686b9d7598077aee1"
 metafile = true
@@ -311,11 +306,6 @@ metafile = true
 [[files]]
 file = "mods/tiefix.toml"
 hash = "4030c2a4d6eacab88b8993578ef19f874a2cbcf4fd0bf09b88eda32d3cecdbf1"
-metafile = true
-
-[[files]]
-file = "mods/viafabric.pw.toml"
-hash = "17ddb536a87b968f95792cfdb5f1cb1eea0ea70a7233b9f28cf19c41e8cd363d"
 metafile = true
 
 [[files]]
