@@ -254,8 +254,8 @@ hash = "46902c5093ff6acac3fc4c40583f8e38af28f4576c39f7132ad4d01e6e35ff28"
 metafile = true
 
 [[files]]
-file = "mods/mine-little-pony.toml"
-hash = "097c82ad29b590b0a871440daa463381f58bd021fee58a65a57155834125b53d"
+file = "mods/mine-little-pony.pw.toml"
+hash = "b65d8b937d126eeda274282e1e6c2c77bf1ce3f6bbe1f5c3158cef91182389cf"
 metafile = true
 
 [[files]]
