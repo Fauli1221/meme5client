@@ -139,11 +139,6 @@ hash = "5984256e04d57537e47be5cb6b6f7f57d02be1db0282d58c3365a765726b6b23"
 metafile = true
 
 [[files]]
-file = "mods/chime.toml"
-hash = "5af1239f6c1c48fef43fdefbbbff5e5190cc173842f86d7ec44d03e6b309fcbe"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.toml"
 hash = "d2bb03cee21d84e8e72fccc06cc8afbd6760674a7b8629a3fcba98e24503008e"
 metafile = true
@@ -181,11 +176,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
-metafile = true
-
-[[files]]
-file = "mods/ebe.toml"
-hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
 
 [[files]]
@@ -239,11 +229,6 @@ hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
 metafile = true
 
 [[files]]
-file = "mods/lambdabettergrass.toml"
-hash = "01f79a7fb966690009a42f285e779bac8f7958df56240494e4d3d7d862332c2d"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
 metafile = true
@@ -285,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "525252bb860d002a1985a4ffbb4cee19d727dc01bc78eaee0d3881e7bfff2eca"
+hash = "73a331eb8ba2203821613804d514d4da7974aa61d55e873686b9d7598077aee1"
 metafile = true
 
 [[files]]
