@@ -3,11 +3,11 @@ filename = "cem-0.7.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3709/988/cem-0.7.1.jar"
 hash-format = "sha1"
-hash = "cdee86c59231dbe6df3aa17cfa2041221346306b"
+hash = "96c943ee9282945877fe85e7c474ccddbaca0401"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3709988
+file-id = 3821136
 project-id = 477078

@@ -1,13 +1,13 @@
 name = "Meme 5 Client"
 author = "Fauli1221"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ef67b92012c24f917cf0c617774a9bf838ac1cf46cb56ef8d06b37575ac89193"
+hash = "0b6140e2b43280c2a771a0f90b40c5a57ae0736431dfe0f218eb12dc84309e23"
 
 [versions]
 fabric = "0.14.6"
-minecraft = "1.18.2"
+minecraft = "1.19"
