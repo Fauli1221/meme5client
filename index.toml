@@ -34,7 +34,7 @@ hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
 file = "config/debugify.json"
-hash = "2d0c60272f03844ab08bac7b8465012ea98db229fa21e80744fc18e31128af2c"
+hash = "bac564344a6a72533f5c3ed59fd7fbc863e5c559202fa176e8df401ff64bef54"
 
 [[files]]
 file = "config/dynamicfps.toml"
@@ -139,6 +139,11 @@ hash = "5984256e04d57537e47be5cb6b6f7f57d02be1db0282d58c3365a765726b6b23"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.toml"
 hash = "d2bb03cee21d84e8e72fccc06cc8afbd6760674a7b8629a3fcba98e24503008e"
 metafile = true
@@ -170,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "af368a6d45f8cab9804f0918cd84c1548b94ee8bcb5409aff59963b3c5d16dd9"
+hash = "d562db5edffe81d5698a1c8ee6a42c4d014865dad4daf19fd4331b99018a2537"
 metafile = true
 
 [[files]]
@@ -210,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/hd-skins.toml"
-hash = "2dc118f2cea563e58d2344e1003a8bb4b2ae74ef4be6d2844f54c5c097cb3b20"
+hash = "a54fd40307c68d3c925a76e059d60a90118f11d59de67ab838a8ef569e630a24"
 metafile = true
 
 [[files]]
