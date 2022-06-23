@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "d562db5edffe81d5698a1c8ee6a42c4d014865dad4daf19fd4331b99018a2537"
+hash = "004dbebb72fb7b4afaa12797a18c0871b78da1cc930ee0a9e65a485a99d6232b"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "240f229d403e488b3dc3192a1224e872fa102df766af48ea50b429d267eabe9f"
+hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
 
 [[files]]
@@ -195,12 +195,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.toml"
-hash = "7c8734c1b20623d0deaab723a2c872c3b166fe466b43caa43fc7118dfd40d843"
+hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "358ffc2bfad0305580718cb6c57e501a372d087a6f27f0c37fa9001f461d0861"
+hash = "3a906e337c1299509b63c347c4383e224222d63be7acd4cc516f18945e62be3c"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "bbbf79e3bc952411d58fb20119792dda0096b42784ff9398c5febd2a137153c4"
+hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
 
 [[files]]
