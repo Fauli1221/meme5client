@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "960e11d87f09c00789095d237aaa1244fc45d9c1fdb0be3fc2093f877ae10ff2"
+hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "73a331eb8ba2203821613804d514d4da7974aa61d55e873686b9d7598077aee1"
+hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
 metafile = true
 
 [[files]]
