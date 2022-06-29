@@ -284,6 +284,11 @@ hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "f6a072019c35753a4ab34024ca0619f76b25778c4f6e5a1bdba00b86407e2d9c"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.toml"
 hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
 metafile = true
