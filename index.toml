@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "d2bb03cee21d84e8e72fccc06cc8afbd6760674a7b8629a3fcba98e24503008e"
+hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.pw.toml"
-hash = "b65d8b937d126eeda274282e1e6c2c77bf1ce3f6bbe1f5c3158cef91182389cf"
+hash = "e8e4a8b910b3e1ac3d778235147a1e101d29379aafdf0cd3da192175eb96b19c"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "f6a072019c35753a4ab34024ca0619f76b25778c4f6e5a1bdba00b86407e2d9c"
+hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "cb52c3d79459b7e327f70d9bfcba0991b2170e296595c91fa48777278160505c"
+hash = "008b2006d0fe497355611042c0326f0bd22e3261e9aec6d81bbae0fa07cc3afb"
 metafile = true
 
 [[files]]
