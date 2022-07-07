@@ -1,0 +1,17 @@
+name = "ShulkerBoxTooltip"
+filename = "shulkerboxtooltip-3.0.10+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b72deb26591e1bd4fc5cdaf9a708fd57f0335280"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3856055
+project-id = 315811
+
+[option]
+optional = true
+description = "Adds a ShulkerBox overlay"
