@@ -194,11 +194,6 @@ hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
-hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes.toml"
 hash = "1d533d748141c829666799492b2ee7e6f13dbe54da7839b3e7da1f293ed2f3a2"
 metafile = true
@@ -275,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
+hash = "73bc2fb1fd275fd88efd075bc03153d6b2d6d34871f62a94208db5c28f17805b"
 metafile = true
 
 [[files]]
@@ -285,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
+hash = "0b25fb8f6efc68064ac94cdc7d04d134ef52a0474cdb386a1ba5e7e82c4a3c20"
 metafile = true
 
 [[files]]
@@ -296,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.toml"
 hash = "615f8158be122f497dc69c3be5026833536bcb0d0dd60f1d61403e58fbe679c2"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "33b4e42405067fbbf2633e14299e3010bdc48b31f1fa777ff45e542b5cda4f27"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "f2a2f3be2264a36d04da4d7fb851b8e78e7958799a9476a3ecc23faa1b8cd8dc"
+hash = "01708709754aa268e3b1c08e16927611b7f482a0bbb2eba57b6deb379c82ac21"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "89e3af59d7d0a7f26f3bf9fa80bf719ebc6a30f8dfba4d9721dc4fc5674a47f7"
+hash = "627fa00ab0c7877b46cb9c86e88998c75f22b98da07b03438d70669bd98c7413"
 metafile = true
 
 [[files]]
