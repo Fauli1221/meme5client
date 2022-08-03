@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "ac2207cfc96eabeec2650f09d9ef72d2597fc7438edc9cbdaf5fbb2ba43bfde2"
+hash = "58fd0c579e75880dde1ad661819a3a7c9cdb4cc6ea3c042a9b8ae996adb3b970"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -245,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
+hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
 metafile = true
 
 [[files]]
 file = "mods/logical-zoom.toml"
-hash = "7bdc07bbbab297f260213d23134915977679c8df8df0d2695222fe20949a58a5"
+hash = "6fd1b6d93e3edd23ab07441ab0b70a8b26dc2439b94b2a46148b0635c66edd91"
 metafile = true
 
 [[files]]
@@ -275,12 +275,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "70794068a407652022124d83b39e696d2c3194daeea0e4993afd50fb0351552c"
+hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "0b25fb8f6efc68064ac94cdc7d04d134ef52a0474cdb386a1ba5e7e82c4a3c20"
+hash = "13c71598d788235d793bd8f488dbe636f1dc6952425c24285c2d188f7a1d024a"
 metafile = true
 
 [[files]]
@@ -290,12 +290,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.toml"
-hash = "615f8158be122f497dc69c3be5026833536bcb0d0dd60f1d61403e58fbe679c2"
+hash = "4d5f84481c08f43d7dd35bae05f815a5b1fa39dc7220a62d6226b229f7062569"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "33b4e42405067fbbf2633e14299e3010bdc48b31f1fa777ff45e542b5cda4f27"
+hash = "2ae2a17a9a92f337fe58dddc9245f890f4fc55a0421bc9708890068a5be77489"
 metafile = true
 
 [[files]]
@@ -305,12 +305,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "b08a12e8a59f1b001dcb755a8a93dc628a05d4c958f0ed426021ca6872d8e5d6"
+hash = "dbb8d5ff15abe2342d2bfbde661b8d49d2177fd321483ab53089793ce3cdcdb4"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "01708709754aa268e3b1c08e16927611b7f482a0bbb2eba57b6deb379c82ac21"
+hash = "f02b1ff091cf9b8035fbb597f784fc38d3c14f4c1d8e49a7bc7cad36c953c78b"
 metafile = true
 
 [[files]]
