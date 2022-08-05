@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "70794068a407652022124d83b39e696d2c3194daeea0e4993afd50fb0351552c"
+hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.toml"
-hash = "615f8158be122f497dc69c3be5026833536bcb0d0dd60f1d61403e58fbe679c2"
+hash = "4d5f84481c08f43d7dd35bae05f815a5b1fa39dc7220a62d6226b229f7062569"
 metafile = true
 
 [[files]]
@@ -305,12 +305,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "b08a12e8a59f1b001dcb755a8a93dc628a05d4c958f0ed426021ca6872d8e5d6"
+hash = "dbb8d5ff15abe2342d2bfbde661b8d49d2177fd321483ab53089793ce3cdcdb4"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "f2a2f3be2264a36d04da4d7fb851b8e78e7958799a9476a3ecc23faa1b8cd8dc"
+hash = "03caea8e54131541626c5b61661915121437e382a0402b9cd6f1bb916c1096a5"
 metafile = true
 
 [[files]]
