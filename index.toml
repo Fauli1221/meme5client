@@ -74,7 +74,7 @@ hash = "c0a0ae4040bbeba5f9659614dbcf02b8cbaad729b61c47dc4e34d98c81c96ac3"
 
 [[files]]
 file = "config/iris.properties"
-hash = "ad767988f26f65dfab025d2ace2daf65ec9d2465826d72c782146fa077a01ef4"
+hash = "6940889cb7efe3a9703de2749ff04dbb8d83160eaa249f24a9fddfee76f74b59"
 
 [[files]]
 file = "config/lambdabettergrass.toml"
