@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "58fd0c579e75880dde1ad661819a3a7c9cdb4cc6ea3c042a9b8ae996adb3b970"
+hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.toml"
-hash = "1d533d748141c829666799492b2ee7e6f13dbe54da7839b3e7da1f293ed2f3a2"
+hash = "ae9db3e7b6c56961d1678cb5a56d53ccb4245d4e5e384ac36e3822c4922586e3"
 metafile = true
 
 [[files]]
@@ -245,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
+hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
 
 [[files]]
 file = "mods/logical-zoom.toml"
-hash = "6fd1b6d93e3edd23ab07441ab0b70a8b26dc2439b94b2a46148b0635c66edd91"
+hash = "72bd5ceb05b99778dce144de6919a4c3b586211312d406af14ef36596b0a24f1"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "73bc2fb1fd275fd88efd075bc03153d6b2d6d34871f62a94208db5c28f17805b"
+hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "9b633588eb4869fd0961c69ce84589f31a53d188a7624bdaa9ee83383066c1cc"
+hash = "713a641a445bc48bbbed1283e11883d55c9b5a41b5387979655aa83dac099968"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "0dab45a444020d2c92298f1fc8cb8c8a4074bb19ccfec57938999b8f8b0621ab"
+hash = "e8a70e0fb28e3823e2e249837a21bc89aaf27b01278bf3fa9b3d0047bc080784"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "f02b1ff091cf9b8035fbb597f784fc38d3c14f4c1d8e49a7bc7cad36c953c78b"
+hash = "5245579eb85b373e90dd88d946f449b228129c83e3ae6f836b36528d38ef7f6c"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "627fa00ab0c7877b46cb9c86e88998c75f22b98da07b03438d70669bd98c7413"
+hash = "ccee56e1c8e96e01def3b0f9d7a6b09770e6ed6df729fb4916368e12c0f9624c"
 metafile = true
 
 [[files]]
