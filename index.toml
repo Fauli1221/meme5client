@@ -204,6 +204,11 @@ hash = "0b0b7d2de5e46b9032ae84b25f554839e7fabfeab7bd8bcb48392b940e112f38"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "8a48e51272da00e3d7018e2aa8ef12ab8a59e68c934ed2513681ab6c341d1b0d"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
