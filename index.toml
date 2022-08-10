@@ -130,7 +130,7 @@ hash = "2f9524e90a973cbd127f8f3f5d7b134efbce157dfe1ef26bcf365ce0caf7a6ec"
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "851a5d7ac081ce98ed91bee6bf4cfc6e1a8bc8b011d0338f82516a5ef115bf82"
+hash = "75752f46a880ff249368f148d9e2908000fbf3a82d8ac3b539952a069ca1cacc"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "b4cb6877a7a06ee0778f3c18af66bff9291794b6ebfb1954cbc3d4a624bdde5b"
+hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "713a641a445bc48bbbed1283e11883d55c9b5a41b5387979655aa83dac099968"
+hash = "7f4661acedba1f64b7cbfe36f613400b2657e59ce921bee55ab25b247835c2ba"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
+hash = "2a5a1f044c53108281b83f268f246669a04cf4eb4651aa1bd0faab6a9dda408f"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "5245579eb85b373e90dd88d946f449b228129c83e3ae6f836b36528d38ef7f6c"
+hash = "a197e74d07cb7ee9277a46125fdf7c91febfa5034799ee7a26a3513a77df399d"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "ccee56e1c8e96e01def3b0f9d7a6b09770e6ed6df729fb4916368e12c0f9624c"
+hash = "22980703d2060eba3ef16e3fea5ffff8a2ffcef3b6768e941f3dd6e26e574411"
 metafile = true
 
 [[files]]
