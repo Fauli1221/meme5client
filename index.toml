@@ -139,11 +139,6 @@ hash = "5984256e04d57537e47be5cb6b6f7f57d02be1db0282d58c3365a765726b6b23"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.toml"
 hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
@@ -219,6 +214,11 @@ hash = "a54fd40307c68d3c925a76e059d60a90118f11d59de67ab838a8ef569e630a24"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "0f93f7ebe762960461c659f042c0dfcb4079bcdff54a52df6b5ba1e7c8fa79ef"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
+hash = "9dbc20e8a4e9bd8c997c2af628640f8dcdd05fde6437afbacd630531735c1fcb"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "a197e74d07cb7ee9277a46125fdf7c91febfa5034799ee7a26a3513a77df399d"
+hash = "50ab9255dacf8eb182c14513599409c1f890948b5d10e4f94191c10f343cf7a8"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "22980703d2060eba3ef16e3fea5ffff8a2ffcef3b6768e941f3dd6e26e574411"
+hash = "61f1e62c5b4539fc05a0f3be2e7489bcfee7ea9039dbcc61c997c7d2c19c0e43"
 metafile = true
 
 [[files]]
