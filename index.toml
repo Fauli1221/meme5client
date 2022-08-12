@@ -259,6 +259,11 @@ hash = "7bdc07bbbab297f260213d23134915977679c8df8df0d2695222fe20949a58a5"
 metafile = true
 
 [[files]]
+file = "mods/mambience.pw.toml"
+hash = "655919b6f75cc94b66beb2054d8b1b1fc9a214566c85f6f2b694ddd79abfdba9"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.toml"
 hash = "46902c5093ff6acac3fc4c40583f8e38af28f4576c39f7132ad4d01e6e35ff28"
 metafile = true
