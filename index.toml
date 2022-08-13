@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "8a48e51272da00e3d7018e2aa8ef12ab8a59e68c934ed2513681ab6c341d1b0d"
+hash = "ee7aa24a9eb8832ec181dfffd54c4c51419f4f5be69fa8a12bd16356b5d12813"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "2a5a1f044c53108281b83f268f246669a04cf4eb4651aa1bd0faab6a9dda408f"
+hash = "2f69649f1658de740bd483dc45f4b4d29267c00bec0ae9d80583e6dc115044a4"
 metafile = true
 
 [[files]]
