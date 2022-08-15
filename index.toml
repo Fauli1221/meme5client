@@ -149,11 +149,6 @@ hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.toml"
-hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
-metafile = true
-
-[[files]]
 file = "mods/colormatic.toml"
 hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
 metafile = true
