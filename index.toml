@@ -129,6 +129,10 @@ file = "config/tiefix.json"
 hash = "2f9524e90a973cbd127f8f3f5d7b134efbce157dfe1ef26bcf365ce0caf7a6ec"
 
 [[files]]
+file = "mods/Mambience-5.2.0+1.19.jar"
+hash = "15f7ccda1adb3a4269ffdfd8046e3582ad60d767a55d837dbfd058bc132601b5"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "75752f46a880ff249368f148d9e2908000fbf3a82d8ac3b539952a069ca1cacc"
 metafile = true
@@ -256,16 +260,6 @@ metafile = true
 [[files]]
 file = "mods/logical-zoom.toml"
 hash = "72bd5ceb05b99778dce144de6919a4c3b586211312d406af14ef36596b0a24f1"
-metafile = true
-
-[[files]]
-file = "mods/mambience.pw.toml"
-hash = "655919b6f75cc94b66beb2054d8b1b1fc9a214566c85f6f2b694ddd79abfdba9"
-metafile = true
-
-[[files]]
-file = "mods/mambience.pw.toml"
-hash = "655919b6f75cc94b66beb2054d8b1b1fc9a214566c85f6f2b694ddd79abfdba9"
 metafile = true
 
 [[files]]
