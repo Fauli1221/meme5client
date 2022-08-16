@@ -143,6 +143,11 @@ hash = "772e023a8b657034dff279a54e852adf8dca2a1498151020e55bca0a5791b31e"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "afb21a17027af1677c959c6357782469b270bd31200e823a6d1ed5b893bd02ad"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.toml"
 hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
@@ -170,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.toml"
 hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "2248cd4427f3fed56652cd540ecd0b86c81a6ef7cf927d6686feab09f3ef9b88"
 metafile = true
 
 [[files]]
