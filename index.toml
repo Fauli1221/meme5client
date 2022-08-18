@@ -148,6 +148,11 @@ hash = "afb21a17027af1677c959c6357782469b270bd31200e823a6d1ed5b893bd02ad"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.toml"
 hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
@@ -218,6 +223,11 @@ hash = "ee7aa24a9eb8832ec181dfffd54c4c51419f4f5be69fa8a12bd16356b5d12813"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "ac0a425f01b57603d143e65eebba8b53078474c61f8f0a9a35ab2bbd7ed3a931"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
@@ -270,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/logical-zoom.toml"
 hash = "72bd5ceb05b99778dce144de6919a4c3b586211312d406af14ef36596b0a24f1"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
@@ -350,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/tiefix.toml"
 hash = "4030c2a4d6eacab88b8993578ef19f874a2cbcf4fd0bf09b88eda32d3cecdbf1"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "88cb2a3f92444a78d269fcf6f5c8cf6d36740c5d445871b372022b6397a06714"
 metafile = true
 
 [[files]]
