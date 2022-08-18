@@ -358,16 +358,6 @@ hash = "1597a813ab0da92af07a5f5b27a34add0a6518ecacf63b7789d821982b719493"
 metafile = true
 
 [[files]]
-file = "mods/starlight.toml"
-hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
-metafile = true
-
-[[files]]
-file = "mods/tiefix.toml"
-hash = "4030c2a4d6eacab88b8993578ef19f874a2cbcf4fd0bf09b88eda32d3cecdbf1"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "88cb2a3f92444a78d269fcf6f5c8cf6d36740c5d445871b372022b6397a06714"
 metafile = true
