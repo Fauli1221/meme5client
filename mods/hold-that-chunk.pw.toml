@@ -1,13 +1,13 @@
 name = "Hold That Chunk"
-filename = "holdthatchunk-1.1.0+1.19.jar"
+filename = "holdthatchunk-1.1.1+1.19.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LXJlc5WJ/versions/PvLL6TzN/holdthatchunk-1.1.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/LXJlc5WJ/versions/jmtkq16F/holdthatchunk-1.1.1%2B1.19.jar"
 hash-format = "sha1"
-hash = "b31a2bcd01ad0e15ac689a44ffa7e8536059eac3"
+hash = "dd4aac52c8793dd9117880499a62bada51e6ee5b"
 
 [update]
 [update.modrinth]
 mod-id = "LXJlc5WJ"
-version = "PvLL6TzN"
+version = "jmtkq16F"
