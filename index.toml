@@ -69,6 +69,10 @@ file = "config/hdskins.json"
 hash = "73764c4a732c2da345b8ff5be7ffc1f731505cebcf2f5f4ed2f99bb6fa1984bb"
 
 [[files]]
+file = "config/holdthatchunk.json"
+hash = "2f70df9d87842ccde9fc10e1bc775cfabef69afa57000b13bc1e7aee28db9933"
+
+[[files]]
 file = "config/indium-renderer.properties"
 hash = "c0a0ae4040bbeba5f9659614dbcf02b8cbaad729b61c47dc4e34d98c81c96ac3"
 
@@ -143,11 +147,6 @@ hash = "772e023a8b657034dff279a54e852adf8dca2a1498151020e55bca0a5791b31e"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "afb21a17027af1677c959c6357782469b270bd31200e823a6d1ed5b893bd02ad"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
 metafile = true
@@ -180,11 +179,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.toml"
 hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "2248cd4427f3fed56652cd540ecd0b86c81a6ef7cf927d6686feab09f3ef9b88"
 metafile = true
 
 [[files]]
