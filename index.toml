@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.toml"
-hash = "82b6f9f3fb89cce2de6facd3fc6e5692bf1c4d2aa77d385ae0207bf84a71f871"
+hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
-hash = "0f93f7ebe762960461c659f042c0dfcb4079bcdff54a52df6b5ba1e7c8fa79ef"
+hash = "3948a057227f696cedd8951ce19f320ebcf5beacc8490bcddc8576692f9398f8"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.toml"
-hash = "46902c5093ff6acac3fc4c40583f8e38af28f4576c39f7132ad4d01e6e35ff28"
+hash = "0051fefa10d4abd486f02513b86e7c8b7ee24d69dac182c421548d7ec7617f42"
 metafile = true
 
 [[files]]
@@ -309,12 +309,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9dbc20e8a4e9bd8c997c2af628640f8dcdd05fde6437afbacd630531735c1fcb"
+hash = "741381be667a7b124ce60ba17fca9207369bd6ead4e58ce64fa140aff95f8159"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "7f4661acedba1f64b7cbfe36f613400b2657e59ce921bee55ab25b247835c2ba"
+hash = "bced73cfdaa0e28e92744b59d5ed2779a60a4b2ebd3bdb944b9cc4956da19814"
 metafile = true
 
 [[files]]
@@ -324,27 +324,27 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "8219e50865699c5139be8a3a76796975e75bd25c0278bb7740e1589dbb0df0bb"
+hash = "bb090e9eaa0a347174edefa4449cb04d0fc1e1eeb00483c844033821a34e6619"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "2f69649f1658de740bd483dc45f4b4d29267c00bec0ae9d80583e6dc115044a4"
+hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "dbb8d5ff15abe2342d2bfbde661b8d49d2177fd321483ab53089793ce3cdcdb4"
+hash = "f54bb114886ae5586972cd653887a740019e6d1a78d9ff4e68d186eb81bb107b"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "50ab9255dacf8eb182c14513599409c1f890948b5d10e4f94191c10f343cf7a8"
+hash = "0f94c7074bed4d65d773b15c8df09673864a02baa3a947ca3ebfd7d931125b09"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "3f2148f425622b9226aac1a5ea41f6613f9fdc0f484eadd72d30714ab0a73895"
+hash = "a861006c66175659b11c63a2e3872852b58626e7bb756bf39213cef991c490be"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1597a813ab0da92af07a5f5b27a34add0a6518ecacf63b7789d821982b719493"
+hash = "9770de2c4a292f74040cb67660e462e7f896cfa09f0d856e9e116701f333cdd2"
 metafile = true
 
 [[files]]
