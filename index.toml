@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "68f33f291ece8fff8fe601841a7beb3b9b12348b3c3c1f1847cb4596a910b375"
+hash = "a858a7f76194859c3909bbd178eb79cbf0a59c8e1db1d21d6330a58fdb588405"
 metafile = true
 
 [[files]]
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "bb090e9eaa0a347174edefa4449cb04d0fc1e1eeb00483c844033821a34e6619"
+hash = "28ada72bcca86b540ca97e537a70dec266bc89225eadd29026c2fc3390355ab9"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "03cb6f0793621021fc5c71403aad928bca39cb29be15aa3e43e4865cdcef06ca"
+hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
 metafile = true
 
 [[files]]
