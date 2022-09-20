@@ -11,3 +11,7 @@ hash = "52d1a2d2eba71bb0257af18c5013b8fef9cf3961"
 [update.modrinth]
 mod-id = "Fb4jn8m6"
 version = "9kSv8gsK"
+
+[option]
+optional = true
+description = "CURENTLY BROKEN DON'T USE"
