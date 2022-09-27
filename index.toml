@@ -202,6 +202,11 @@ hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "5dc6f26eda0171997214c8557858b7f7e564a32d274931d8840e165c88d84729"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.toml"
 hash = "ae9db3e7b6c56961d1678cb5a56d53ccb4245d4e5e384ac36e3822c4922586e3"
 metafile = true
@@ -308,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "90bac3dfe0536bb6f01ef8101f5b2c882074306455b0492f471a89125a25191f"
+hash = "be824e3a7d43b57ec6931b195f1f526736dd20433df0d8ef37d830b8a61dec13"
 metafile = true
 
 [[files]]
@@ -318,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a4c71d1e6256cd75f0bbafee90086d372c79dc836b40d81f7b67c66d65c14948"
+hash = "09c65e66d8a5168476896c7ab94c680981da3ca69e9f6af34a251a672e87953d"
 metafile = true
 
 [[files]]
