@@ -357,6 +357,16 @@ hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols-extra.pw.toml"
+hash = "acf3b1e82595c4b11b796d200770c2f7b7306787578438d22c4005296663ec3f"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "4109669f7d376c6f663a2f970fdc4b459b284d562cf3f57cb30a7dcf55d3ec32"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.toml"
 hash = "8f25bcf2861e14d911472dc7f55087a156bd948bc6322e530d91cf46e5c26579"
 metafile = true
@@ -418,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "6973dccefd1d685a8626afdc1cd94d0d8e70874f28a23f97b2e8670556ebc795"
+hash = "098dce0babfbd913be0789e3b4711122ca53164b534b7425dadd3cc931ccbc6a"
 metafile = true
 
 [[files]]

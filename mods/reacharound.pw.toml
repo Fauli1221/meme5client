@@ -11,3 +11,7 @@ hash = "bd2b22f37799f2f5555de18e2c4c1ea6cc417d01"
 [update.modrinth]
 mod-id = "r3VgI4QN"
 version = "CGv8fJaH"
+
+[option]
+optional = true
+description = "adds the feature from bedroch where you can place blocks infront of you without needing to look at the space you want to place it at"
