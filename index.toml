@@ -147,11 +147,6 @@ hash = "75752f46a880ff249368f148d9e2908000fbf3a82d8ac3b539952a069ca1cacc"
 metafile = true
 
 [[files]]
-file = "mods/bedrockify.pw.toml"
-hash = "4d4f8ae08ca92f7c02c3ea7ce5d0f99526165d511c5a1605fe9127948a1d9935"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "807d28f09d7e25a7b00e4c5f610391e94170deb353466e6386d075d66083ca18"
 metafile = true
@@ -412,8 +407,18 @@ hash = "4d5f84481c08f43d7dd35bae05f815a5b1fa39dc7220a62d6226b229f7062569"
 metafile = true
 
 [[files]]
+file = "mods/qkl.pw.toml"
+hash = "c9b5c7f923336eb60458492ee72e30471edefa0b5b897d279def756101895737"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "09c65e66d8a5168476896c7ab94c680981da3ca69e9f6af34a251a672e87953d"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "6973dccefd1d685a8626afdc1cd94d0d8e70874f28a23f97b2e8670556ebc795"
 metafile = true
 
 [[files]]
