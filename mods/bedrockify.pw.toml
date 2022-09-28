@@ -1,0 +1,18 @@
+name = "BedrockIfy"
+filename = "bedrockify-1.4.2b+mc1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ox3rDp1B/versions/Wk4me9fR/bedrockify-1.4.2b%2Bmc1.19.jar"
+hash-format = "sha1"
+hash = "37257f58fbec9bda0b532e803671df8cf7f21d5b"
+
+[update]
+[update.modrinth]
+mod-id = "ox3rDp1B"
+version = "Wk4me9fR"
+
+
+[option]
+optional = true
+description = "makes Java more bedrock like"

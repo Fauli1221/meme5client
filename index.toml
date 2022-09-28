@@ -137,8 +137,23 @@ file = "mods/Mambience-5.2.0+1.19.jar"
 hash = "15f7ccda1adb3a4269ffdfd8046e3582ad60d767a55d837dbfd058bc132601b5"
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "716555c8f316ba26a816051f072f766241750e9fa6bb037ad84b05a8b9bb11fb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "75752f46a880ff249368f148d9e2908000fbf3a82d8ac3b539952a069ca1cacc"
+metafile = true
+
+[[files]]
+file = "mods/bedrockify.pw.toml"
+hash = "4d4f8ae08ca92f7c02c3ea7ce5d0f99526165d511c5a1605fe9127948a1d9935"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "807d28f09d7e25a7b00e4c5f610391e94170deb353466e6386d075d66083ca18"
 metafile = true
 
 [[files]]
@@ -187,8 +202,18 @@ hash = "f78fdd7d632b5e90ba87232795ce5862bfb6c57df924e1b8e3510b4ad8bcf37f"
 metafile = true
 
 [[files]]
+file = "mods/custom-splash-screen.pw.toml"
+hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
+metafile = true
+
+[[files]]
 file = "mods/debugify.toml"
 hash = "59da146d66e2948dfbd203684937dfb822711a228bd505332b5a979678bedbbc"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "4ca2ed8cc663032459392368834d3536cce86f37020809a8814f2632af8c9c14"
 metafile = true
 
 [[files]]
@@ -202,6 +227,16 @@ hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "ecf7da591e98bcd3587e327716d0ce0ef6a4df51098c7c68da690ee6dfcb3764"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "6e04734c5596bd02f18c5ed378a5f6131b8f27a236d9e3727006a86868806488"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
@@ -209,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.toml"
 hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "ba872e992a7b2b6366450e89cdc9bffa79ebd421addab8c61320ba6de0d5f77c"
 metafile = true
 
 [[files]]
@@ -237,8 +277,18 @@ hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
 metafile = true
 
 [[files]]
+file = "mods/featuredserversfabric.pw.toml"
+hash = "c7d8a2cb791a3cc7e187bc8d53ccfdad1f27678d2c42721b3c0a379ae3bf2b64"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "80fe47c7671b00b48b9a184a9b73531c5b588f8299c56f4bf5809b07bb8855e2"
 metafile = true
 
 [[files]]
@@ -257,8 +307,18 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/interactic.pw.toml"
+hash = "b39b9a8e58805d94a88d17ca11d622cd04c06a73e8e9fd8ea053548e71b51f73"
+metafile = true
+
+[[files]]
 file = "mods/iris.toml"
 hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
+metafile = true
+
+[[files]]
+file = "mods/isometric-renders.pw.toml"
+hash = "b16e75d21860e2ea31768c62c535746bf31de7b9324ba1d960454b9deb12794f"
 metafile = true
 
 [[files]]
@@ -279,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/letsleepingdogslie.pw.toml"
+hash = "8e3483132356ac2526b726e5b1586e1d741e6116fff6d21d73b302ffd293fb2c"
 metafile = true
 
 [[files]]
@@ -327,6 +392,16 @@ hash = "be824e3a7d43b57ec6931b195f1f526736dd20433df0d8ef37d830b8a61dec13"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "af2bbcc5c20140bef2c785d36bb9f75f2b0c8c229caf23877d9f6d9a4d880bd4"
+metafile = true
+
+[[files]]
+file = "mods/old-walking-animation.pw.toml"
+hash = "c618377365323ce1dfe68a6991679c6dfe02370834eb9d46767a82be3c78b5ba"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.toml"
 hash = "4d5f84481c08f43d7dd35bae05f815a5b1fa39dc7220a62d6226b229f7062569"
 metafile = true
@@ -334,6 +409,16 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "09c65e66d8a5168476896c7ab94c680981da3ca69e9f6af34a251a672e87953d"
+metafile = true
+
+[[files]]
+file = "mods/replay-voice-chat.pw.toml"
+hash = "ba6a962b1d6a75f892de39af0794085b1cbc5f1b0e935c065fa08bfdd5bdd0b0"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "adb76d8f7dcc9a8b09df08a4b71c7a85767ff74db7e3a5b29270153bad0beb4a"
 metafile = true
 
 [[files]]
@@ -357,6 +442,11 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/sort.pw.toml"
+hash = "64dfb920cc1d0e0bb01951579243d5153bf205547d3fa831ab021ddbbc493a74"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
 metafile = true
@@ -364,6 +454,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.pw.toml"
+hash = "676fe7b3772a98538402496fea66fd4da28bb707e083cdfcdcf2e96063bb10cd"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.pw.toml"
+hash = "0ad3a90be61376613b4c196e06eb3bdd833e6c52fefef2f38028c18918ee3f67"
 metafile = true
 
 [[files]]
