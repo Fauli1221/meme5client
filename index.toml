@@ -402,6 +402,11 @@ hash = "c618377365323ce1dfe68a6991679c6dfe02370834eb9d46767a82be3c78b5ba"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "4314e8c42c43f127d78498236549bc7a1c8bf952830f13e8298778a98c88363f"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.toml"
 hash = "4d5f84481c08f43d7dd35bae05f815a5b1fa39dc7220a62d6226b229f7062569"
 metafile = true
