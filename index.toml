@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "5dc6f26eda0171997214c8557858b7f7e564a32d274931d8840e165c88d84729"
+hash = "2f20c0c59809a3072e764676ff2171e9d20494ed2255ea26a9af046f621154ef"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
+hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
 metafile = true
 
 [[files]]
