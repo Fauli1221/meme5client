@@ -392,11 +392,6 @@ hash = "af2bbcc5c20140bef2c785d36bb9f75f2b0c8c229caf23877d9f6d9a4d880bd4"
 metafile = true
 
 [[files]]
-file = "mods/old-walking-animation.pw.toml"
-hash = "c618377365323ce1dfe68a6991679c6dfe02370834eb9d46767a82be3c78b5ba"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "507bc64b94ff03432f5e061318fe9d6765d6fd66b3075e91d209e023f08f60f7"
 metafile = true
