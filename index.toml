@@ -61,6 +61,10 @@ file = "config/fabrishot.properties"
 hash = "b9ddd7c2b841bb84858dc2d30384514ecb724eeb76ce98bbd2ee63cac0596a62"
 
 [[files]]
+file = "config/featuredservers.json"
+hash = "c5d6ff4d3816988d05865460d80f0823a4e4fda5dffbbde611ff4bff29f784e6"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "ac2b86b1c5dc4e3728e17e091e203bb9bb747a6ef81a49b7ecc1ce7a67da210e"
 
@@ -489,11 +493,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "97471863c24224572448fe54fb55b887e33d3434b5ebf9fb66847098b0874761"
-
-[[files]]
-file = "servers.dat"
-hash = "1be199698be76b50822cfa94007a728fb2651b94eaa8237726388ca3ca87a05a"
-
-[[files]]
-file = "servers.dat_old"
-hash = "40801fe313a690e82d763e21e2ccc3a04aa90016bc798e71f1d8b7a456be97be"
