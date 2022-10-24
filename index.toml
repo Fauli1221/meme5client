@@ -277,11 +277,6 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "efd833bd2cdee0ff09fadc4afbac084e1d6ccef17a32662df0d717b13ef5c55a"
-metafile = true
-
-[[files]]
 file = "mods/hd-skins.toml"
 hash = "a54fd40307c68d3c925a76e059d60a90118f11d59de67ab838a8ef569e630a24"
 metafile = true
